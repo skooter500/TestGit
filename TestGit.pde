@@ -9,3 +9,7 @@ void draw()
   textAlign(CENTER, CENTER);
   text("Hello Bryan", width / 2, height / 2);  
 }
+
+void hello()
+{
+}
