@@ -7,5 +7,5 @@ void draw()
 {
   textSize(24);
   textAlign(CENTER, CENTER);
-  text("Hello GIT", width / 2, height / 2);
+  text("Hello Bryan", width / 2, height / 2);  
 }
