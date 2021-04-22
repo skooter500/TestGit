@@ -12,4 +12,5 @@ void draw()
 
 void hello()
 {
+  println("hello");
 }
